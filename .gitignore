@@ -1,2 +1,5 @@
 01-starter-files/
 frontend/angular-ecommerce/.vscode/
+
+#Images
+frontend/angular-ecommerce/src/assets/images/products/*
